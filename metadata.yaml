@@ -1,0 +1,38 @@
+_repo: A-negy-Gyorgy-b-Kor-rajzi-kepek-az-angol-udvari-es-varosi-eletbol_72623
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Szász, Béla
+    gutenberg_agent_id: '56750'
+    url: http://www.gutenberg.org/2009/agents/56750
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Titmarsh, Michael Angelo
+    - Thackeray, W. M.
+    - Titmarsh, M. A.
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia: https://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: ''
+gutenberg_issued: '2024-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72623'
+language: hu
+pgterms:marc905: 20240104003938thackeray
+pgterms:marc906: '1867'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: '  $aPest :$bRáth Mór, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A négy György : $b Kor-rajzi képek az angol udvari és városi életből'
+url: http://www.gutenberg.org/ebooks/72623
